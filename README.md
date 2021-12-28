@@ -35,5 +35,5 @@ THIS IS AN FULLY UPDATED TG MUSIC USERBOT ...YOU CAN LISTEN UR SONGS WITHOUT ANY
 #### 📚 Variable Required
 # • `API_ID` - Get From [my.telegram.org](https://my.telegram.org)
 # • `API_HASH` - Get From [my.telegram.org](https://my.telegram.org)
-# • `SESSION` - Create String Pyrogram. Create it From  [session](https://replit.com/@GoodBoysExe/string-session?lite=1&outputonly=1)
+# • `SESSION` - Create String Pyrogram. Create it From  [session](https://replit.com/@dashezup/generate-pyrogram-session-string)
 # • `SUDO_USER` - ID Of Telegram Account
