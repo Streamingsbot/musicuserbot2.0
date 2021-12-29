@@ -18,7 +18,7 @@
             "required": true
         },
         "HNDLR": {
-            "description": "ini akan digunakan sebagai prefix di semua perintah",
+            "description": "default is / ",
             "required": false,
             "value": "/"
         },
