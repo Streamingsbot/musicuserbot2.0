@@ -30,7 +30,7 @@ THIS IS AN FULLY UPDATED TG MUSIC USERBOT ...YOU CAN LISTEN UR SONGS WITHOUT ANY
 
 ## 💡 Deployment
 💜 Heroku
- ## [𝗗𝗘𝗣𝗟𝗢𝗬 To𝗘 𝗛𝗘𝗥𝗢𝗞𝗨](https://heroku.com/deploy?template=https://github.com/amanrajput2001/musicuserbot2.0)
+ ## [𝗗𝗘𝗣𝗟𝗢𝗬 To𝗘 𝗛𝗘𝗥𝗢𝗞𝗨](https://heroku.com/deploy?template=https://github.com/Streamingsbot/musicuserbot2.0)
 
 #### 📚 Variable Required
 # • `API_ID` - Get From [my.telegram.org](https://my.telegram.org)
